@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    height: 100vh;
+    background-color: black;
+    overflow: hidden;
+}
+
+#background-stars {
+    width: 50%;
+    height: 50vh;
+    padding: 50vh 0 0 50%;
+}
+
+.background-star {
+    position: absolute;
+}
